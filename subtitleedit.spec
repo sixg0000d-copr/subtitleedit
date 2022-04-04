@@ -1,5 +1,5 @@
 Name:           subtitleedit
-Version:        3.6.4
+Version:        3.6.5
 Release:        1%{?dist}
 Summary:        A subtitle editor
 
